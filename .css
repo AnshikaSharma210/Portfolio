@@ -12,11 +12,11 @@ ul li {
 ul li a {
   text-decoration: none;
   padding: 5px;
-  margin: 0px 15px;
+  margin: 0 15px;
   color: #9d174d;
 }
 .heading {
-  font-style: Roboto Slab;
+  font-style: normal Roboto Slab;
   color: #b45309;
 }
 .peach {
